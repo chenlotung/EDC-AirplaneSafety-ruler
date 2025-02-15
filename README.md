@@ -23,5 +23,5 @@
 ## 參考資料
 ![image](https://github.com/user-attachments/assets/e4e32e5f-a8e6-41d9-8bf0-9b8e547e3ddb)
 
-
-## github link
+## link
+[github](https://github.com/chenlotung/EDC-AirplaneSafety-ruler/tree/main)
