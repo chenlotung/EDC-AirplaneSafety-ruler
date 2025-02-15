@@ -25,3 +25,4 @@
 
 ## link
 [github](https://github.com/chenlotung/EDC-AirplaneSafety-ruler/tree/main)
+[HackMD](https://hackmd.io/@chenlotung/rJMz9yRKJx)
