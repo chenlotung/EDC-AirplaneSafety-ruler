@@ -1,4 +1,4 @@
-# EDC 隨身破窗尺
+# EDC 隨身尺
 ![image](https://github.com/user-attachments/assets/527f5455-db5b-43e7-a5f2-645480e8a1a4)
 ## 功能
 - 能隨身上飛機的防身工具
