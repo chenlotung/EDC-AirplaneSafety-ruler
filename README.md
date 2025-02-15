@@ -11,7 +11,7 @@
 - 可纏傘繩
 - 鎢鋼破窗頭(銷釘、頂針)
 - 相容MOLLE
-![image](https://github.com/user-attachments/assets/ed0f40c6-8fc0-4d86-92d3-4a3ec1dd19c1)
+- ![image](https://github.com/user-attachments/assets/ed0f40c6-8fc0-4d86-92d3-4a3ec1dd19c1)
 
 
 ## 材質
